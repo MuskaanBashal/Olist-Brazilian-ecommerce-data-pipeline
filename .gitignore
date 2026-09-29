@@ -1,0 +1,26 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Raw / generated data
+data/
+database/
+*.db
+*.sqlite
+*.sqlite3
+
+# Kaggle / cache
+.cache/
+
+# Environment / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
